@@ -1,0 +1,208 @@
+id,value
+alimento,
+alimento.Coriander,
+alimento.Coriander.Proximates,
+alimento.Coriander.Proximates.Water
+alimento.Coriander.Proximates.Energy
+alimento.Coriander.Proximates.Total lipid (fat)
+alimento.Coriander.Proximates.Carbohydrate
+alimento.Coriander.Proximates.Fiber
+alimento.Coriander.Proximates.Sugars
+alimento.Coriander.Minerals,
+alimento.Coriander.Minerals.Calcium
+alimento.Coriander.Minerals.Iron
+alimento.Coriander.Minerals.Magnesium
+alimento.Coriander.Minerals.Phosphorus
+alimento.Coriander.Minerals.Potassium
+alimento.Coriander.Minerals.Sodium
+alimento.Coriander.Minerals.Zinc
+alimento.Coriander.Vitamins,
+alimento.Coriander.Vitamins.Vitamin C
+alimento.Coriander.Vitamins.Thiamin
+alimento.Coriander.Vitamins.Riboflavin
+alimento.Coriander.Vitamins.Niacin
+alimento.Coriander.Vitamins.Vitamin B-6
+alimento.Coriander.Vitamins.Folate
+alimento.Coriander.Vitamins.Vitamin B-12
+alimento.Coriander.Vitamins.Vitamin A
+alimento.Coriander.Vitamins.Vitamin E 
+alimento.Coriander.Vitamins.Vitamin D
+alimento.Coriander.Vitamins.Vitamin K
+alimento.Coriander.Lipids,
+alimento.Coriander.Lipids.saturated
+alimento.Coriander.Lipids.monounsaturated
+alimento.Coriander.Lipids.polyunsaturated
+alimento.Coriander.Lipids.trans
+alimento.Coriander.Lipids.Cholesterol
+alimento.Coriander.others,
+alimento.Coriander.others.Caffeine
+alimento.Cookies Chocolate,
+alimento.Cookies Chocolate.Proximates,
+alimento.Cookies Chocolate.Proximates.Water
+alimento.Cookies Chocolate.Proximates.Energy
+alimento.Cookies Chocolate.Proximates.Total lipid (fat)
+alimento.Cookies Chocolate.Proximates.Carbohydrate
+alimento.Cookies Chocolate.Proximates.Fiber
+alimento.Cookies Chocolate.Proximates.Sugars
+alimento.Cookies Chocolate.Minerals,
+alimento.Cookies Chocolate.Minerals.Calcium
+alimento.Cookies Chocolate.Minerals.Iron
+alimento.Cookies Chocolate.Minerals.Magnesium
+alimento.Cookies Chocolate.Minerals.Phosphorus
+alimento.Cookies Chocolate.Minerals.Potassium
+alimento.Cookies Chocolate.Minerals.Sodium
+alimento.Cookies Chocolate.Minerals.Zinc
+alimento.Cookies Chocolate.Vitamins,
+alimento.Cookies Chocolate.Vitamins.Vitamin C
+alimento.Cookies Chocolate.Vitamins.Thiamin
+alimento.Cookies Chocolate.Vitamins.Riboflavin
+alimento.Cookies Chocolate.Vitamins.Niacin
+alimento.Cookies Chocolate.Vitamins.Vitamin B-6
+alimento.Cookies Chocolate.Vitamins.Folate
+alimento.Cookies Chocolate.Vitamins.Vitamin B-12
+alimento.Cookies Chocolate.Vitamins.Vitamin A
+alimento.Cookies Chocolate.Vitamins.Vitamin E 
+alimento.Cookies Chocolate.Vitamins.Vitamin D
+alimento.Cookies Chocolate.Vitamins.Vitamin K
+alimento.Cookies Chocolate.Lipids,
+alimento.Cookies Chocolate.Lipids.saturated
+alimento.Cookies Chocolate.Lipids.monounsaturated
+alimento.Cookies Chocolate.Lipids.polyunsaturated
+alimento.Cookies Chocolate.Lipids.trans
+alimento.Cookies Chocolate.Lipids.Cholesterol
+alimento.Cookies Chocolate.others,
+alimento.Cookies Chocolate.others.Caffeine
+alimento.Manzana Verde,
+alimento.Manzana Verde.Proximates,
+alimento.Manzana Verde.Proximates.Energy
+alimento.Manzana Verde.Proximates.Protein
+alimento.Manzana Verde.Proximates.Total lipid (fat)
+alimento.Manzana Verde.Proximates.Carbohydrate
+alimento.Manzana Verde.Proximates.Sugars
+alimento.Manzana Verde.Minerals,
+alimento.Manzana Verde.Minerals.Sodium
+alimento.Melon balls,
+alimento.Melon balls.Proximates,
+alimento.Melon balls.Proximates.Water
+alimento.Melon balls.Proximates.Energy
+alimento.Melon balls.Proximates.Protein
+alimento.Melon balls.Proximates.Total Lipid
+alimento.Melon balls.Proximates.Carbohydrate
+alimento.Melon balls.Proximates.Fiber
+alimento.Melon balls.Minerals,
+alimento.Melon balls.Minerals.Calcium
+alimento.Melon balls.Minerals.Iron
+alimento.Melon balls.Minerals.Magnesium
+alimento.Melon balls.Minerals.Phosphorus
+alimento.Melon balls.Minerals.Potassium
+alimento.Melon balls.Minerals.Sodium
+alimento.Melon balls.Minerals.Zinc
+alimento.Melon balls.Vitamins, 
+alimento.Melon balls.Vitamins.Vitamin C
+alimento.Melon balls.Vitamins.Thiamin
+alimento.Melon balls.Vitamins.Riboflavin
+alimento.Melon balls.Vitamins.Niacin
+alimento.Melon balls.Vitamins.Vitamin B
+alimento.Melon balls.Vitamins.Vitamin A
+alimento.Melon balls.Vitamins.Vitamin D
+alimento.Melon balls.Lipids,
+alimento.Melon balls.Lipids.Total satured
+alimento.Melon balls.Lipids.Total monounsaturated
+alimento.Melon balls.Lipids.Total polyunsaturated
+alimento.Pizza Hut,
+alimento.Pizza Hut.Proximates,
+alimento.Pizza Hut.Proximates.Water
+alimento.Pizza Hut.Proximates.Energy
+alimento.Pizza Hut.Proximates.Protein
+alimento.Pizza Hut.Proximates.Total lipid (fat)
+alimento.Pizza Hut.Proximates.Carbohydrate
+alimento.Pizza Hut.Proximates.Fiber
+alimento.Pizza Hut.Proximates.Sugars
+alimento.BK Hamburger,
+alimento.BK Hamburger.Proximates,
+alimento.BK Hamburger.Proximates.Water
+alimento.BK Hamburger.Proximates.Energy
+alimento.BK Hamburger.Proximates.Protein
+alimento.BK Hamburger.Proximates.Total lipid (fat)
+alimento.BK Hamburger.Proximates.Carbohydrate
+alimento.BK Hamburger.Proximates.Fiber
+alimento.BK Hamburger.Proximates.Sugars
+alimento.BK Hamburger.Proximates.Minerals
+alimento.BK Hamburger.Proximates.Calcium
+alimento.Sandwich spread,
+alimento.Sandwich spread.Proximates,
+alimento.Sandwich spread.Proximates.Water
+alimento.Sandwich spread.Proximates.Energy
+alimento.Sandwich spread.Proximates.Protein
+alimento.Sandwich spread.Proximates.Total lipid (fat)
+alimento.Sandwich spread.Proximates.Carbohydrate
+alimento.Sandwich spread.Proximates.Fiber
+alimento.Sandwich spread.Proximates.Sugars
+alimento.Sandwich spread.Proximates.Minerals
+alimento.Sandwich spread.Proximates.Calcium
+alimento.Papaya nectar,
+alimento.Papaya nectar.Proximates, 
+alimento.Papaya nectar.Proximates.Water
+alimento.Papaya nectar.Proximates.Energy
+alimento.Papaya nectar.Proximates.Protein
+alimento.Papaya nectar.Proximates.Total Lipid
+alimento.Papaya nectar.Proximates.Carbohydrate
+alimento.Papaya nectar.Proximates.Fiber
+alimento.Papaya nectar.Proximates.Sugars
+alimento.Papaya nectar.Minerals,
+alimento.Papaya nectar.Minerals.Calcium
+alimento.Papaya nectar.Minerals.Iron
+alimento.Papaya nectar.Minerals.Magnesium
+alimento.Papaya nectar.Minerals.Phosphorus
+alimento.Papaya nectar.Minerals.Potassium
+alimento.Papaya nectar.Minerals.Sodium
+alimento.Papaya nectar.Minerals.Zinc
+alimento.Papaya nectar.Vitamins,
+alimento.Papaya nectar.Vitamins.Vitamin C
+alimento.Papaya nectar.Vitamins.Thiamin
+alimento.Papaya nectar.Vitamins.Riboflavin
+alimento.Papaya nectar.Vitamins.Niacin
+alimento.Papaya nectar.Vitamins.Vitamin B-6
+alimento.Papaya nectar.Vitamins.Folate
+alimento.Papaya nectar.Vitamins.Vitamin B-12
+alimento.Papaya nectar.Vitamins.Vitamin A RAE	
+alimento.Papaya nectar.Vitamins.Vitamin A IU	
+alimento.Papaya nectar.Vitamins.Vitamin E (alpha-tocopherol)
+alimento.Papaya nectar.Vitamins.Vitamin D (D2 + D3)
+alimento.Papaya nectar.Vitamins.Vitamin D
+alimento.Papaya nectar.Vitamins.Vitamin K
+alimento.Papaya nectar.Lipids,
+alimento.Papaya nectar.Lipids.Fatty acids, total saturated
+alimento.Papaya nectar.Lipids.Fatty acids, total monounsaturated
+alimento.Papaya nectar.Lipids.Fatty acids, total polyunsaturated
+alimento.Papaya nectar.Lipids.Fatty acids, total trans
+alimento.Papaya nectar.LipidsCholesterol
+alimento.WRAP-ITZ,
+alimento.WRAP-ITZ.Proximates,
+alimento.WRAP-ITZ.Proximates.Energy
+alimento.WRAP-ITZ.Proximates.Protein
+alimento.WRAP-ITZ.Proximates.Total lipid (fat)
+alimento.WRAP-ITZ.Proximates.Carbohydrate
+alimento.WRAP-ITZ.Proximates.Fiber
+alimento.WRAP-ITZ.Proximates.Sugars
+alimento.WRAP-ITZ.Proximates.Minerals
+alimento.WRAP-ITZ.Proximates.Calcium
+alimento.WRAP-ITZ.Proximates.Iron
+alimento.Candy Bar,
+alimento.Candy Bar.Proximates,
+alimento.Candy Bar.Proximates.Water
+alimento.Candy Bar.Proximates.Energy
+alimento.Candy Bar.Proximates.Protein
+alimento.Candy Bar.Proximates.Total lipid (fat)
+alimento.Candy Bar.Proximates.Carbohydrate
+alimento.Candy Bar.Proximates.Fiber
+alimento.Candy Bar.Proximates.Sugars
+alimento.Candy Bar.Proximates.Minerals
+alimento.Candy Bar.Proximates.Calcium
+alimento.Candy Bar.Proximates.Iron
+alimento.Candy Bar.Proximates.Calcium
+alimento.Candy Bar.Proximates.Phosphorus
+alimento.Candy Bar.Proximates.Potassium
+alimento.Candy Bar.Proximates.Sodium
+alimento.Candy Bar.Proximates.Vitamin A
+alimento.Candy Bar.Proximates.Vitamin C
